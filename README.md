@@ -1,4 +1,7 @@
 # AquaPilot — Idea C
+
+> This is just a quick prototype we put together to give a rough idea of what we have in mind, rather than a fully functioning system.
+
 Interactive concept prototype for a data-informed autonomous wastewater treatment operator. Open index.html in a browser or deploy the two files to GitHub Pages. No dependencies.
 
 Explore eight dashboard views. Configure a challenge, run the scripted operator, inspect experiments, review the safety gate, and apply an eligible strategy to the virtual display. Search synthetic historical cases and compare illustrative outcomes.
