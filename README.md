@@ -1,6 +1,6 @@
-# AquaPilot — From Automation to Autonomy
-Open index.html in a browser. No dependencies or API key required. Change pollution load or select a fault, then run the operator to compare strategies and see the safety decision.
+# AquaPilot — Idea C
+Interactive concept prototype for a data-informed autonomous wastewater treatment operator. Open index.html in a browser or deploy the two files to GitHub Pages. No dependencies.
 
-This is an illustrative proof of concept using synthetic data, simplified equations and rule-based decisions. No GPT API, actual operational data or validated process simulator is connected. Not for real plant operation.
+Explore eight dashboard views. Configure a challenge, run the scripted operator, inspect experiments, review the safety gate, and apply an eligible strategy to the virtual display. Search synthetic historical cases and compare illustrative outcomes.
 
-To publish: upload index.html to a GitHub repository and enable GitHub Pages from the main branch root.
+All data and calculations are synthetic. No OpenAI API, BSM/ASM model, real operational dataset, independent safety system or actual plant connection is implemented. The comparison uses fixed operation, not a validated PID controller. Planned next steps: measured-data integration, scientific simulation, GPT tool calling, independent validation and closed-loop evaluation.
